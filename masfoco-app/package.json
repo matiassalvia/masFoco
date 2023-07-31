@@ -1,0 +1,18 @@
+{
+  "name": "masfoco-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "Fernando Escobal",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
