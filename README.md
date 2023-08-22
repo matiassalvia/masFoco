@@ -44,5 +44,3 @@ PORT=3000
 - Parámetros de URL: `id` (número) - ID del reporte a eliminar.
 - Respuesta: Mensaje JSON que indica que el reporte fue eliminado exitosamente.
 
-## Créditos del README
-- Fernando Escobal apoyado con ChatGPT
